@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="Area_BehaviorDescriptor.java">
+      <unit at="15,0,27,0" name="BotScript.behavior.Area_BehaviorDescriptor" />
+    </file>
+    <file name="Areas_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="BotScript.behavior.Areas_BehaviorDescriptor" />
+    </file>
+    <file name="Location_BehaviorDescriptor.java">
+      <unit at="13,0,22,0" name="BotScript.behavior.Location_BehaviorDescriptor" />
+    </file>
+    <file name="Script_BehaviorDescriptor.java">
+      <unit at="16,0,34,0" name="BotScript.behavior.Script_BehaviorDescriptor" />
+    </file>
+    <file name="StatementList_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="BotScript.behavior.StatementList_BehaviorDescriptor" />
+    </file>
+    <file name="Statement_BehaviorDescriptor.java">
+      <unit at="11,0,14,0" name="BotScript.behavior.Statement_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
